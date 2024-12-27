@@ -5,6 +5,3 @@ def divide(first , second):
     else:
         res = first / second
     return res
-
-a = divide(4 , 2)
-print(a)
