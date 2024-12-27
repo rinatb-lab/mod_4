@@ -4,5 +4,3 @@ def divide(first , second):
     else:
         res = first / second
     return res
-
-
